@@ -1,0 +1,8 @@
+{
+  "ProjectName": "TestMap",
+  "ProjectGuid": "f07e1463-a0f4-4767-b1b9-c355fb05b82c",
+  "projectVersion": 1,
+  "ProjectTypeGuids": "{da2f9169-4696-40a5-919b-f73985228cac}",
+  "FrameworkVersion": "0.0.1",
+  "Framework": "MobileWebsite"
+}
